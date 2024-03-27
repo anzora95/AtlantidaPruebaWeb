@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\controllers\\tarjetacuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:controllers\\tarjetacuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\models\\movimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:models\\movimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\models\\tarjetamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:models\\tarjetamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\atlantidawebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:atlantidawebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|c:\\users\\josep\\source\\repos\\atlantidawebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E46C7A-E6A3-4E67-A607-AE3706042460}|AtlantidaWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:30:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Models\\MovimientoModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovimientoModel.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Models\\MovimientoModel.cs",
+              "RelativeToolTip": "Models\\MovimientoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:05:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarjetaCuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Controllers\\TarjetaCuentaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarjetaCuentaController.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Controllers\\TarjetaCuentaController.cs",
+              "RelativeToolTip": "Controllers\\TarjetaCuentaController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:36:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarjetaModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Models\\TarjetaModel.cs",
+              "RelativeDocumentMoniker": "Models\\TarjetaModel.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Models\\TarjetaModel.cs",
+              "RelativeToolTip": "Models\\TarjetaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:33:40.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtlantidaWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\AtlantidaWebApi.csproj",
+              "RelativeDocumentMoniker": "AtlantidaWebApi.csproj",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\AtlantidaWebApi.csproj",
+              "RelativeToolTip": "AtlantidaWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T07:30:22.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\AtlantidaWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:05:44.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

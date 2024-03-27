@@ -1,0 +1,85 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "Estado de cuenta";
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+    }
+
+    input[type="date"], input[type="number"] {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .btn-group {
+        text-align: center;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+
+    .btn-save {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .btn-cancel {
+        background-color: #f44336;
+        color: white;
+    }
+</style>
+
+<script>
+    function cancelar() {
+        window.history.back();
+    }
+</script>
+
+<div class="container">
+    <h2>Registro de Pago Mensual</h2>
+    <form id="pago-form">
+        <div class="form-group">
+            <label for="fecha">Fecha de Pago:</label>
+            <input type="date" id="fecha" name="fecha" required>
+        </div>
+        <div class="form-group">
+            <label for="monto">Monto:</label>
+            <input type="number" id="monto" name="monto" step="0.01" required>
+        </div>
+        <div class="btn-group">
+            <button type="submit" class="btn btn-save">Guardar</button>
+            <button type="button" class="btn btn-cancel" onclick="cancelar()">Cancelar</button>
+        </div>
+    </form>
+</div>
+
+

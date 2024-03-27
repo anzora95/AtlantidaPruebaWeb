@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZFXvaZK/bnzbkHSKphFZz2PjuAlfFR2SxwSqpnEZEsA=",
+  "Source": "AtlantidaWebApi",
+  "BasePath": "_content/AtlantidaWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

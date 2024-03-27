@@ -1,0 +1,79 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "Estado de cuenta";
+}
+
+@* style *@
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        width: 80%;
+        margin: 20px auto;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+    }
+
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .statement {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+        .statement th, .statement td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .statement th {
+            background-color: #f2f2f2;
+        }
+
+
+        </style>
+
+    <p > Total Pendiente: <strong > $50.00</strong > </p >
+
+<div class="container">
+    <div class="header">
+        <h2>Estado de Cuenta de Tarjeta de Crédito</h2>
+    </div>
+    <table class="statement">
+        <thead>
+            <tr>
+                <th>Fecha</th>
+                <th>Descripción</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>01/03/2024</td>
+                <td>Compra en Tienda X</td>
+                <td>$100.00</td>
+            </tr>
+            <tr>
+                <td>10/03/2024</td>
+                <td>Pago realizado</td>
+                <td>-$50.00</td>
+            </tr>
+            <!-- Agregar más filas según sea necesario -->
+        </tbody>
+    </table>
+    <p>Total Pendiente: <strong>$50.00</strong></p>
+</div>
